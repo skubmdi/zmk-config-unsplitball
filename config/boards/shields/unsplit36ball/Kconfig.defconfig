@@ -1,0 +1,7 @@
+
+if SHIELD_UNSPLIT36BALL
+
+config ZMK_KEYBOARD_NAME
+    default "unsplit36ball"
+
+endif

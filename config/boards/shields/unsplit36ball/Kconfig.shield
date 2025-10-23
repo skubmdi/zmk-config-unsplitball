@@ -1,0 +1,3 @@
+
+config SHIELD_UNSPLIT36BALL
+    def_bool $(shields_list_contains,unsplit36ball)

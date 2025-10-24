@@ -13,7 +13,7 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: zmk-component-akdk-nrf52840
+    - name: zmk-component-auto-kdk
       remote: skubmdi
       revision: main
     - name: zmk-driver-paw3222

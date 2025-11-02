@@ -1,13 +1,9 @@
 
 include:
   - board: akdk_nrf52840
-    shield: unsplit36ball
+    shield: unsplitball
     snippet: studio-rpc-usb-uart
-    artificial-name: unsplit36ball
+    artificial-name: unsplitball
   - board: akdk_nrf52840
     shield: settings_reset
     artificial-name: settings_reset
-  - board: akdk_rp2040
-    shield: unsplit36ball
-    snippet: studio-rpc-usb-uart
-    artificial-name: unsplit36ball

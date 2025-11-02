@@ -7,10 +7,10 @@
 #include <input/processors/sensor_rotation.dtsi>
 
 #define QWERTY	0
-#define FUNC	1
-#define DVORAK	2
-#define COLEMAK	3
-#define EUCALYN	4
+#define DVORAK	1
+#define COLEMAK	2
+#define EUCALYN	3
+#define FUNC	4
 #define NUMB	5
 #define CTRL	6
 
